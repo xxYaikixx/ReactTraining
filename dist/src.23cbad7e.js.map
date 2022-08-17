@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["a","console","log"],"mappings":";AAGA,IAAIA,EAAI,QACRC,QAAQC,IAAIF","file":"src.23cbad7e.js","sourceRoot":"..","sourcesContent":["/**\n * const/letの変数宣言\n */\nvar a = \"abcde\";\nconsole.log(a);"]}
